@@ -1,0 +1,2 @@
+Name = asd Price = Rs.12 Quantity = 1 12
+Name = asddfg Price = Rs.1 Quantity = 2 2
